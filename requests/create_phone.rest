@@ -1,0 +1,20 @@
+POST http://localhost:4002/phones
+Content-Type: application/json
+
+{
+    "name": "Xiaomi Redmi 9C",
+    "manufacturer": "Xiaomi",
+    "description": "Finding the best price for the Xiaomi Redmi 9C is no easy task. Here you will find where to buy the Xiaomi Redmi 9C at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Blue",
+    "price": 120,
+    "screen": "6.56 inch FHD+",
+    "processor": "Qualcomm Snapdragon 202",
+    "ram": 3
+}
+
+POST http://localhost:4002/phones
+Content-Type: application/json
+
+{
+    "noContent" : "noContent"
+}

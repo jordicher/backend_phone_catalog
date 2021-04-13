@@ -1,0 +1,9 @@
+PUT http://localhost:4002/phones/6070b6e4fa29480c7b4ba52a
+Content-Type: application/json
+
+{
+    "price": 180,
+    "screen": "6.43 inch FHD+",
+    "processor": "Qualcomm 678",
+
+}

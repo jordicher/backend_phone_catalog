@@ -1,0 +1,4 @@
+GET http://localhost:4002/phones/60719d72ada4691ce666e7c3
+
+### error
+GET http://localhost:4002/phones/69

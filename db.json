@@ -1,0 +1,156 @@
+[
+  {
+    "_id": {
+      "$oid": "60756fe4f400d53c2e57087e"
+    },
+    "name": "Apple iPhone 11 ",
+    "manufacturer": "Apple",
+    "description": "Finding the best price for the Apple iPhone 11 is no easy task. Here you will find where to buy the Apple iPhone 11 at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Red",
+    "price": 569,
+    "imageFileName": "iphone11.png",
+    "screen": "6.1 inch LCD IPS",
+    "processor": "Apple A13 Bionic",
+    "ram": 4
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f401d53c2e57087e"
+    },
+    "name": "Apple iPhone 12",
+    "manufacturer": "Apple",
+    "description": "Finding the best price for the Apple iPhone 12 is no easy task. Here you will find where to buy the Apple iPhone 12 at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Blue",
+    "price": 709,
+    "imageFileName": "iphone12.png",
+    "screen": "6.1 inch LCD IPS",
+    "processor": "Apple A14 Bionic",
+    "ram": 4
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f402d53c2e57087e"
+    },
+    "name": "Apple iPhone SE",
+    "manufacturer": "Apple",
+    "description": "Finding the best price for the Apple iPhone SE 2020 is no easy task. Here you will find where to buy the Apple iPhone SE 2020 at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Red",
+    "price": 374,
+    "imageFileName": "iphone_se.png",
+    "screen": "4.7 inch LCD IPS",
+    "processor": "Apple A13 Bionic",
+    "ram": 3
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f403d53c2e57087e"
+    },
+    "name": "Apple iPhone XR",
+    "manufacturer": "Apple",
+    "description": "Finding the best price for the Apple iPhone Xr is no easy task. Here you will find where to buy the Apple iPhone Xr at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Black",
+    "price": 459,
+    "imageFileName": "iphone_xr.png",
+    "screen": "6.1 inch LCD IPS",
+    "processor": "Apple A12 Bionic",
+    "ram": 3
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f424d53c2e57087e"
+    },
+    "name": "Samsung Galaxy S21",
+    "manufacturer": "Samsung",
+    "description": "Finding the best price for the Samsung Galaxy S21 5G is no easy task. Here you will find where to buy the Samsung Galaxy S21 5G at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Grey",
+    "price": 608,
+    "imageFileName": "defaultPhone.png",
+    "screen": "6.2 inch Amoled",
+    "processor": "Samsung Exynos 2100",
+    "ram": 8
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f499d53c2e57087e"
+    },
+    "name": "Samsung Galaxy S20 FE",
+    "manufacturer": "Samsung",
+    "description": "Finding the best price for the Samsung Galaxy S20 Fan Edition is no easy task. Here you will find where to buy the Samsung Galaxy S20 Fan Edition at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Cloud Navy",
+    "price": 435,
+    "imageFileName": "samsung_galaxy_s20.png",
+    "screen": "6.5 inch Super Amoled",
+    "processor": "Samsung Exynos 990",
+    "ram": 6
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f400d00c2e57087e"
+    },
+    "name": "Samsung Galaxy A71",
+    "manufacturer": "Samsung",
+    "description": "Finding the best price for the Samsung Galaxy A71 5G is no easy task. Here you will find where to buy the Samsung Galaxy A71 5G at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Black",
+    "price": 384,
+    "imageFileName": "samsung_galaxy_a71.png",
+    "screen": "6.7 inch Super Amoled",
+    "processor": "Qualcomm Snapdragon 765G",
+    "ram": 8
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f400d53c2e57000e"
+    },
+    "name": "Samsung Galaxy A51",
+    "manufacturer": "Samsung",
+    "description": "Finding the best price for the Samsung Galaxy A51 is no easy task. Here you will find where to buy the Samsung Galaxy A51 at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Black",
+    "price": 219,
+    "imageFileName": "samsung_galaxy_a51.png",
+    "screen": "6.5 inch Super Amoled",
+    "processor": "Samsung Exynos 7 Octa 9611",
+    "ram": 4
+  },
+  {
+    "_id": {
+      "$oid": "61756fl4f400d53c2e57087e"
+    },
+    "name": "OnePlus 9 Pro",
+    "manufacturer": "OnePlus",
+    "description": "Finding the best price for the OnePlus 9 Pro is no easy task. Here you will find where to buy the OnePlus 9 Pro at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Black",
+    "price": 869,
+    "imageFileName": "oneplus_9pro.png",
+    "screen": "6.7 inch Amoled",
+    "processor": "Qualcomm Snapdragon 888",
+    "ram": 8
+  },
+  {
+    "_id": {
+      "$oid": "61156fe4f400d53c2e57087e"
+    },
+    "name": "OnePlus Nord",
+    "manufacturer": "OnePlus",
+    "description": "Finding the best price for the OnePlus Nord is no easy task. Here you will find where to buy the OnePlus Nord at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Grey Onix",
+    "price": 321,
+    "imageFileName": "oneplus_nord.png",
+    "screen": "6.44 inch Amoled",
+    "processor": "Qualcomm Snapdragon 765G",
+    "ram": 8
+  },
+  {
+    "_id": {
+      "$oid": "60756fe4f400d53c2e57099e"
+    },
+    "name": "OnePlus Nord N100",
+    "manufacturer": "OnePlus",
+    "description": "Finding the best price for the OnePlus Nord N100 is no easy task. Here you will find where to buy the OnePlus Nord N100 at the best price. Prices are continuously tracked in over 140 stores so that you can find a reputable dealer with the best price",
+    "color": "Midnigth Frost",
+    "price": 115,
+    "imageFileName": "oneplus_nord_n100.png",
+    "screen": "6.52 inch LCD IPS",
+    "processor": "Qualcomm Snapdragon 460",
+    "ram": 4
+  }
+]

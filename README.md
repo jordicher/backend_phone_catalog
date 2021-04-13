@@ -9,8 +9,9 @@ Backend [Ver online](https://db-phone-catalog.herokuapp.com/phones)
 
 Variables de entorno con archivos .env
 
-MONGO_DB_URI = ""  mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog?retryWrites=true&w=majority
-MONGO_DB_URI_TEST = "" mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog_test?retryWrites=true&w=majority
+MONGO_DB_URI = mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog?retryWrites=true&w=majority 
+
+MONGO_DB_URI_TEST = mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog_test?retryWrites=true&w=majority
 
 ##
 
@@ -52,8 +53,9 @@ Backend [Ver online](https://db-phone-catalog.herokuapp.com/phones)
 
 Variables d'entorn amb arxius .env
 
-MONGO_DB_URI = ""  mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog?retryWrites=true&w=majority
-MONGO_DB_URI_TEST = "" mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog_test?retryWrites=true&w=majority
+MONGO_DB_URI = mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog?retryWrites=true&w=majority 
+
+MONGO_DB_URI_TEST = mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog_test?retryWrites=true&w=majority
 
 ##
 
@@ -94,8 +96,9 @@ Backend [Ver online](https://db-phone-catalog.herokuapp.com/phones)
 
 Environment variables with .env 
 
-MONGO_DB_URI = ""  mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog?retryWrites=true&w=majority
-MONGO_DB_URI_TEST = "" mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog_test?retryWrites=true&w=majority
+MONGO_DB_URI = mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog?retryWrites=true&w=majority 
+
+MONGO_DB_URI_TEST = mongodb+srv://root:password@cluster0.8aejl.mongodb.net/phone_catalog_test?retryWrites=true&w=majority
 
 ##
 
